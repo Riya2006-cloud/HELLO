@@ -1,2 +1,2 @@
 # HELLO
-First git and github class
+First git and github class.
